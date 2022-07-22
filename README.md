@@ -1,5 +1,5 @@
 ## Rest API Tester ✨
-Social Media Application using React with CSS3 & Node.js.
+ Webpage for testing Rest API 
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/rest-api-tester?color=green)
 ![Top language](https://img.shields.io/github/languages/top/letnagao/rest-api-tester?color=ff69b4)
