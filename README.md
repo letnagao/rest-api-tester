@@ -15,10 +15,13 @@
   <img src= "https://user-images.githubusercontent.com/99754900/173962710-17c24f3f-3836-4a97-98eb-8b59ce80cad5.png" />
 </p>
 
-## Technologies used 🛠️
-**Design**: *Vue & HTML *<br />
-
-## Usage 📋
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>Vue</li>
+</ul><ul>
+<li>HTML</li>
+  
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
